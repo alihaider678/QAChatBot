@@ -3,3 +3,5 @@ google-generativeai
 python-dotenv
 datasets
 s3fs
+pydantic
+dataclasses-json<0.7,>=0.5.7
